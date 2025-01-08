@@ -1,1 +1,2 @@
 # LainRansomware
+Fast hash ransomware.
